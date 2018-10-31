@@ -1,0 +1,35 @@
+body{
+margin: 0;
+}
+
+  h1{
+    color: white;
+    text-align: center;
+  }
+
+.navbar.navbar-default {
+  float: right;
+  background-color: transparent;
+  border: none;
+  margin-bottom: 0;
+}
+
+.header-tiatomate {
+  background-color: tomato;
+  height: 400px;
+  width: auto;
+}
+
+.header-tiatomate .inner-div {
+  background-color: white;
+  border: none;
+  border-radius: 0;
+  margin-left: 0;
+  overflow: hidden;
+}
+
+.inner-div img {
+  max-width: 180px;
+  margin: 5px;
+  float: left;
+}
